@@ -16,3 +16,5 @@ Recommendations:
 The low-performing sales reps should focus on Binder sales since they have the highest sales volume in this period and second highest price.
 
 The finance team should dive into the variation in price per units between regions to see if there is anything that can be done to increase low-performing regions.
+
+Project 2: List of tree species in New York City - Statistics 
